@@ -2,69 +2,65 @@
 const { dialogflow } = require('actions-on-google');
 const functions = require('firebase-functions');
 const request = require('request');
+const fs = require('fs');
+
+
 const app = dialogflow({ debug: true });
 
-global.titles = [];
 app.middleware((conv) => { });
 
-app.intent('obc-event-info-intent', async function (conv, {date, city}) {
-    //return getEventsData().then(titles => conv.close("asdf"));
-    return await getEventsData().then((titles) => {
-        conv.close("Events for " + titles.join(", "));
-        return titles;
-    });
-    //conv.close("Events for ");
-    //getEventsData();
-    //conv.close("Events for " + global.titles.join(", "));c
-
+app.intent('obc-event-info-intent', (conv, {date, city})  => {
+    let event_data = getEventsTitleAndText();
+    let names = event_data[0];
+    conv.close("Here are some events.. " + names.join(". ")  + ".. Would you like to know more about any of these events?");
 });
 
-exports.InspireMe = functions.https.onRequest(app);
+app.intent('obc-event-info-intent - yes', (conv, {number})  => {
+    let event_data = getEventsTitleAndText();
+    let text = event_data[1];
+    if(number> 0 && number <= 3) {
+        conv.close("Here is some more information about the event. " + text[number-1]);
+    }else{
+        conv.close("which one caught your attention?");
+    }
+});
 
-function getEventsTitle(items){
-    if (items.length <=0) return "";
+app.intent('obc-event-info-intent - yes - select.number', (conv, {number})  => {
+    let event_data = getEventsTitleAndText();
+    let text = event_data[1];
+    if(number> 0 && number <= 3) {
+        conv.close("Here is some more information about the event. " + text[number-1]);
+    }
+});
+
+
+function getEventsTitleAndText(){
+    let obj = JSON.parse(fs.readFileSync('./mock_data/events.json', 'utf8'));
     let names = [];
-    items.forEach(elm => {
+    let textes = [];
+    obj.Items.forEach(elm => {
+        let title = "";
+        let text = "";
         if(elm.Detail.en !== undefined){
-            names.push(elm.Detail.en.Title);
+            title = (elm.Detail.en.Title);
+            text = (elm.Detail.en.BaseText);
         } else if (elm.Detail.it !== undefined){
-            names.push(elm.Detail.it.Title);
+            title = (elm.Detail.it.Title);
+            text = (elm.Detail.it.BaseText);
         } else if (elm.Detail.de !== undefined){
-            names.push(elm.Detail.de.Title);
+            title = (elm.Detail.de.Title);
+            text = (elm.Detail.de.BaseText);
         }
+        //let su = [];
+        //su["title"] = title;
+        //su["text"] = text;
+        textes.push([text]);
+        names.push([title]);
     });
-    return names;
+    return [names,textes];
 }
 
-function getEventsItems() {
-    events =  getEventsData();
-    return ;
-}
-
-function getEventsData() {
-    return new Promise((resolve, reject) => {
-        request('https://mindfeed.one/events/event.php', (err, resp) => {
-            if (err) {
-                reject(err_msg());
-            } else {
-                let json = JSON.parse(resp.body);
-                let items = json.Items;
-                let names = [];
-                items.forEach(elm => {
-                    if(elm.Detail.en !== undefined){
-                        names.push(elm.Detail.en.Title);
-                    } else if (elm.Detail.it !== undefined){
-                        names.push(elm.Detail.it.Title);
-                    } else if (elm.Detail.de !== undefined){
-                        names.push(elm.Detail.de.Title);
-                    }
-                });
-                global.titles = names;
-                resolve( names);
-            }
-        });
-    });
-}
+exports.InspireMe = functions.https.onRequest(app);
 
 function err_msg() {
     return "Something went wrong.";

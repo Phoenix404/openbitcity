@@ -1,0 +1,1100 @@
+{
+  "TotalResults": 2688,
+  "TotalPages": 896,
+  "CurrentPage": 1,
+  "Seed": "null",
+  "Items": [
+    {
+      "Id": "ACE69C22C9DD41E6B74123BF64725F12",
+      "Ranc": 0,
+      "Type": "1",
+      "Active": true,
+      "Detail": {
+        "de": {
+          "Title": "Braunsbergbühne Lana: Das Orchester",
+          "Header": null,
+          "BaseText": "Das Orchester - Die Braunsbergbühne Lana zeigt die Komödie von Jean Anouilh, Raiffeisenhaus, 20.00 Uhr.",
+          "Keywords": null,
+          "Language": "de",
+          "MetaDesc": null,
+          "IntroText": null,
+          "MetaTitle": null,
+          "SubHeader": null,
+          "GetThereText": null,
+          "AdditionalText": null
+        },
+        "it": {
+          "Title": "Comedia \"Das Orchester\"",
+          "Header": null,
+          "BaseText": "Das Orchester - comedia di Jean Anouilh (in lingua tedesca), casa Raiffeisen, ore 20.00",
+          "Keywords": null,
+          "Language": "it",
+          "MetaDesc": null,
+          "IntroText": null,
+          "MetaTitle": null,
+          "SubHeader": null,
+          "GetThereText": null,
+          "AdditionalText": null
+        }
+      },
+      "OrgRID": "522822B451CA11D18F1400A02427D15E",
+      "PayMet": "0",
+      "SignOn": "0",
+      "Ticket": "0",
+      "Topics": [
+        {
+          "TopicRID": "6884FE362C88434B9F49725E3328112B",
+          "TopicInfo": "Theater/Vorführungen"
+        }
+      ],
+      "DateEnd": "2077-11-17T00:00:00",
+      "Gpstype": "position",
+      "SmgTags": null,
+      "Altitude": null,
+      "Latitude": 0,
+      "DateBegin": "2077-11-17T00:00:00",
+      "EventDate": [
+        {
+          "To": "2077-11-17T00:00:00",
+          "End": "00:00:00",
+          "From": "2077-11-17T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": false,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        }
+      ],
+      "Longitude": 0,
+      "Shortname": "Braunsbergbühne Lana: Das Orchester",
+      "SmgActive": true,
+      "TopicRIDs": [
+        "6884FE362C88434B9F49725E3328112B"
+      ],
+      "DistrictId": "79CBD79551C911D18F1400A02427D15E",
+      "EventPrice": {},
+      "LastChange": "2018-09-21T17:14:11.2994213",
+      "DistrictIds": [
+        "79CBD79551C911D18F1400A02427D15E"
+      ],
+      "FirstImport": "2017-12-15T00:08:55.7560463",
+      "HasLanguage": [
+        "de",
+        "it"
+      ],
+      "ContactInfos": {
+        "de": {
+          "Tax": null,
+          "Url": "",
+          "Vat": null,
+          "City": "Lana",
+          "Email": "",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": null,
+          "ZipCode": "39011",
+          "Language": "de",
+          "Faxnumber": null,
+          "Givenname": null,
+          "NamePrefix": null,
+          "CompanyName": "",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "0473 561770"
+        },
+        "it": {
+          "Tax": null,
+          "Url": "",
+          "Vat": null,
+          "City": "",
+          "Email": "",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": null,
+          "ZipCode": "39011",
+          "Language": "it",
+          "Faxnumber": null,
+          "Givenname": null,
+          "NamePrefix": null,
+          "CompanyName": "",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "0473 561770"
+        }
+      },
+      "ImageGallery": [
+        {
+          "Width": 0,
+          "Height": 0,
+          "ValidTo": null,
+          "ImageUrl": "https://doc.lts.it/docsite/ImageRender.aspx?ID=8EA8F8113AE24049A8FFD53A4A7C99A9",
+          "CopyRight": "",
+          "ImageDesc": {
+            "de": "",
+            "en": "",
+            "it": ""
+          },
+          "ImageName": null,
+          "ValidFrom": null,
+          "ImageTitle": {},
+          "ImageSource": "LTS",
+          "IsInGallery": true,
+          "ListPosition": 0
+        }
+      ],
+      "LocationInfo": {
+        "TvInfo": {
+          "Id": "522822B451CA11D18F1400A02427D15E",
+          "Name": {
+            "cs": "Lana a okolí",
+            "de": "Lana und Umgebung",
+            "en": "Lana and Environs",
+            "fr": "Lana et environs",
+            "it": "Lana e dintorni",
+            "nl": "Lana en omgeving",
+            "pl": "Lana i okolice",
+            "ru": "Лана/Lana и окрестности"
+          }
+        },
+        "AreaInfo": null,
+        "RegionInfo": {
+          "Id": "D2633A20C24E11D18F1B006097B8970B",
+          "Name": {
+            "cs": "Meran/Merano a okolí",
+            "de": "Meran und Umgebung",
+            "en": "Merano/Meran and environs",
+            "fr": "Merano/Meran et environs",
+            "it": "Merano e dintorni",
+            "nl": "Merano/Meran en omgeving",
+            "pl": "Merano/Meran i okolice",
+            "ru": "Мерано/Meran и окрестности"
+          }
+        },
+        "DistrictInfo": {
+          "Id": "79CBD79551C911D18F1400A02427D15E",
+          "Name": {
+            "cs": "Lana/Lana",
+            "de": "Lana",
+            "en": "Lana/Lana",
+            "fr": "Lana/Lana",
+            "it": "Lana",
+            "nl": "Lana/Lana",
+            "pl": "Lana/Lana",
+            "ru": "Лана"
+          }
+        },
+        "MunicipalityInfo": {
+          "Id": "0EECEC93283E42488CBE0EB3B94CD339",
+          "Name": {
+            "cs": "Lana/Lana",
+            "de": "Lana",
+            "en": "Lana/Lana",
+            "fr": "Lana/Lana",
+            "it": "Lana",
+            "nl": "Lana/Lana",
+            "pl": "Lana/Lana",
+            "ru": "Лана"
+          }
+        }
+      },
+      "EventPublisher": null,
+      "OrganizerInfos": {
+        "de": {
+          "Tax": "01494100215",
+          "Url": "http://www.lana.info",
+          "Vat": "",
+          "City": "Lana",
+          "Email": "info@lana.info",
+          "Address": "Andreas-Hofer-Str. 9/1",
+          "LogoUrl": null,
+          "Surname": "",
+          "ZipCode": "39011",
+          "Language": "de",
+          "Faxnumber": "+39 0473 561979",
+          "Givenname": "",
+          "NamePrefix": null,
+          "CompanyName": "Tourismusverein Lana und Umgebung",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0473 561770"
+        },
+        "it": {
+          "Tax": "01494100215",
+          "Url": "http://www.lana.info",
+          "Vat": "",
+          "City": "Lana",
+          "Email": "info@lana.info",
+          "Address": "Via Andreas Hofer 9/1",
+          "LogoUrl": null,
+          "Surname": "",
+          "ZipCode": "39011",
+          "Language": "it",
+          "Faxnumber": "+39 0473 561979",
+          "Givenname": "",
+          "NamePrefix": null,
+          "CompanyName": "Associazione Turistica Lana e dintorni",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0473 561770"
+        }
+      },
+      "EventAdditionalInfos": {
+        "de": {
+          "Reg": "",
+          "Mplace": "",
+          "Language": "de",
+          "Location": "Raiffeisenhaus"
+        },
+        "it": {
+          "Reg": "",
+          "Mplace": "",
+          "Language": "it",
+          "Location": "Casa Raiffeisen"
+        }
+      },
+      "AltitudeUnitofMeasure": null
+    },
+    {
+      "Id": "ABB0215F0BCC46F7ACBDB67FF9CF322C",
+      "Ranc": 0,
+      "Type": "1",
+      "Active": true,
+      "Detail": {
+        "de": {
+          "Title": "Traditionelles Pflugziehen",
+          "Header": null,
+          "BaseText": "Das bäuerliche Leben von einst wird in einem Fasnachtsspiel,  lebendig gehalten und veranschaulicht die enge Verbindung des Bauern zu seiner Scholle einer- und die sozialen Verflechtungen andererseits. Das Pflugziehen ist wohl ein altes Kultspiel vom Kampf der Naturkräfte, vom Scheiden des Winters und dem Anbruch der segenbringenden, fruchtbaren Zeit.\nIm Umzug, der durch das Dorf führt, wird einerseits die Hoffnung auf eine gute Ernte mitgetragen, andererseits sollten die bösen Geister des Winters, symbolisch dargestellt im jeweils für die Dorfbewohner schlimmsten Übel der Zeit, verjagt werden.\n\nAblauf:\n12 -16 Uhr\nUmzug und Schauspiel durch Stilfs mit Pflug und Bauerngefolge. Händler, Hausierer, Krämer und Kleinhandwerker stören die bäuerlichen Arbeiten und ihre Ordnung.\n\nca. 15 Uhr \nKnödelstehlen am Kirchplatz, wobei die Auseinandersetzung \"Gsindl\" gegen \"Bauravolk\" ihren Höhepunkt erreicht und schließlich versöhnend bei Musik und Tanz endet\n\n17 Uhr\nMusik und Tanz in den Gasthäusern von Stilfs\n\nKnödel und Kraut gibt es ab 12 Uhr (solange der Vorrat reicht)",
+          "Keywords": null,
+          "Language": "de",
+          "MetaDesc": null,
+          "IntroText": null,
+          "MetaTitle": null,
+          "SubHeader": null,
+          "GetThereText": null,
+          "AdditionalText": null
+        },
+        "en": {
+          "Title": "Plough pulling in Stilfs",
+          "Header": null,
+          "BaseText": "Plough pulling is another custom carried out every second year in Stilfs. The former life of the farmers is depicted on stage. On the one hand the peasant’s closeness to their ground is exemplified and on the other hand their complex social interweavement and dependence are shown.\nPlough pulling is an ancient play mirroring the battle against the force of nature. The end and parting of winter is outlined as well as the beginning of the blessing and prosperous period of spring.\nThe procession through the village raises on the one hand hope for the prosperous harvest. On the other hand the victo",
+          "Keywords": null,
+          "Language": "en",
+          "MetaDesc": null,
+          "IntroText": null,
+          "MetaTitle": null,
+          "SubHeader": null,
+          "GetThereText": null,
+          "AdditionalText": null
+        },
+        "it": {
+          "Title": "Pfluagziachn a Stelvio",
+          "Header": null,
+          "BaseText": "La tradizione del „Pfluagziachn“ è festeggiata nel periodo di Carnevale. Sperando che per l’anno successivo la mietitura sarà un successo, con un corteo passano per il paese per cacciare gli spiriti cattivi dell’inverno. È uno spettacolo che simbolicamente dimostra la fine dell’inverno.",
+          "Keywords": null,
+          "Language": "it",
+          "MetaDesc": null,
+          "IntroText": null,
+          "MetaTitle": null,
+          "SubHeader": null,
+          "GetThereText": null,
+          "AdditionalText": null
+        }
+      },
+      "OrgRID": "14FFF00F1DFD4DE290F66255481990B7",
+      "PayMet": "0",
+      "SignOn": "0",
+      "Ticket": "0",
+      "Topics": [
+        {
+          "TopicRID": "33BDC54BD39946F4852B3394B00610AE",
+          "TopicInfo": "Handwerk/Brauchtum"
+        }
+      ],
+      "DateEnd": "2020-02-22T00:00:00",
+      "Gpstype": "position",
+      "SmgTags": [
+        "kultur-events"
+      ],
+      "Altitude": null,
+      "Latitude": 46.5984,
+      "DateBegin": "2020-02-22T00:00:00",
+      "EventDate": [
+        {
+          "To": "2020-02-22T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-22T00:00:00",
+          "Begin": "12:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        }
+      ],
+      "Longitude": 10.5472,
+      "Shortname": "Traditionelles Pflugziehen",
+      "SmgActive": true,
+      "TopicRIDs": [
+        "33BDC54BD39946F4852B3394B00610AE"
+      ],
+      "DistrictId": "79CBD97D51C911D18F1400A02427D15E",
+      "EventPrice": {},
+      "LastChange": "2018-11-08T15:28:28.9060297",
+      "DistrictIds": [
+        "79CBD97D51C911D18F1400A02427D15E"
+      ],
+      "FirstImport": "2015-11-27T10:02:45.6597719",
+      "HasLanguage": [
+        "de",
+        "it",
+        "en"
+      ],
+      "ContactInfos": {
+        "de": {
+          "Tax": null,
+          "Url": "http://www.ortler.it",
+          "Vat": null,
+          "City": "Stilfs",
+          "Email": "info@ortlergebiet.it",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": null,
+          "ZipCode": "39029",
+          "Language": "de",
+          "Faxnumber": null,
+          "Givenname": null,
+          "NamePrefix": null,
+          "CompanyName": "Stilfs",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0473 613015"
+        },
+        "en": {
+          "Tax": null,
+          "Url": "http://www.ortler.it",
+          "Vat": null,
+          "City": "Stelvio/Stilfs",
+          "Email": "info@ortlergebiet.it",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": null,
+          "ZipCode": "39029",
+          "Language": "en",
+          "Faxnumber": null,
+          "Givenname": null,
+          "NamePrefix": null,
+          "CompanyName": "Stelvio/Stilfs",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0473 613015"
+        },
+        "it": {
+          "Tax": null,
+          "Url": "http://www.ortler.it",
+          "Vat": null,
+          "City": "Stelvio",
+          "Email": "info@ortlergebiet.it",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": null,
+          "ZipCode": "39029",
+          "Language": "it",
+          "Faxnumber": null,
+          "Givenname": null,
+          "NamePrefix": null,
+          "CompanyName": "Stelvio",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0473 613015"
+        }
+      },
+      "ImageGallery": [
+        {
+          "Width": 0,
+          "Height": 0,
+          "ValidTo": null,
+          "ImageUrl": "https://doc.lts.it/docsite/ImageRender.aspx?ID=c4dd990a95924cd78cc621664e38d7d1",
+          "CopyRight": "Vinschgau Marketing/Frieder Blickle",
+          "ImageDesc": {
+            "de": "Vinschgau Marketing/Frieder Blickle",
+            "en": "Vinschgau Marketing/Frieder Blickle",
+            "it": "Vinschgau Marketing/Frieder Blickle"
+          },
+          "ImageName": null,
+          "ValidFrom": null,
+          "ImageTitle": {},
+          "ImageSource": "LTS",
+          "IsInGallery": true,
+          "ListPosition": 0
+        },
+        {
+          "Width": 0,
+          "Height": 0,
+          "ValidTo": null,
+          "ImageUrl": "https://doc.lts.it/docsite/ImageRender.aspx?ID=ef5ee9d3e0f24f67ac2dd568c6abbd20",
+          "CopyRight": "Vinschgau Marketing (F. Blickle)",
+          "ImageDesc": {
+            "de": "Vinschgau Marketing (F. Blickle)",
+            "en": "Vinschgau Marketing (F. Blickle)",
+            "it": "Vinschgau Marketing (F. Blickle)"
+          },
+          "ImageName": null,
+          "ValidFrom": null,
+          "ImageTitle": {},
+          "ImageSource": "LTS",
+          "IsInGallery": true,
+          "ListPosition": 1
+        },
+        {
+          "Width": 0,
+          "Height": 0,
+          "ValidTo": null,
+          "ImageUrl": "https://doc.lts.it/docsite/ImageRender.aspx?ID=90cb3fd9fd2c4f8396cab430ead41871",
+          "CopyRight": "Vinschgau Marketing (F. Blickle)",
+          "ImageDesc": {
+            "de": "Vinschgau Marketing (F. Blickle)",
+            "en": "Vinschgau Marketing (F. Blickle)",
+            "it": "Vinschgau Marketing (F. Blickle)"
+          },
+          "ImageName": null,
+          "ValidFrom": null,
+          "ImageTitle": {},
+          "ImageSource": "LTS",
+          "IsInGallery": true,
+          "ListPosition": 2
+        }
+      ],
+      "LocationInfo": {
+        "TvInfo": {
+          "Id": "522822EB51CA11D18F1400A02427D15E",
+          "Name": {
+            "cs": "Ortleru/Ortles",
+            "de": "Ortlergebiet",
+            "en": "Ortles/Ortler",
+            "fr": "Ortles (Ortler)",
+            "it": "Ortles",
+            "nl": "Ortles-/Ortlergebied",
+            "pl": "Ortles/Ortler",
+            "ru": "Ортлер (Ortler)"
+          }
+        },
+        "AreaInfo": null,
+        "RegionInfo": {
+          "Id": "D2633A24C24E11D18F1B006097B8970B",
+          "Name": {
+            "cs": "Vinschgau/Val Venosta",
+            "de": "Vinschgau",
+            "en": "Val Venosta/Vinschgau",
+            "fr": "Val Venosta/Vinschgau",
+            "it": "Val Venosta",
+            "nl": "Val Venosta/Vinschgau",
+            "pl": "Val Venosta/Vinschgau",
+            "ru": "Валь-Веноста/Vinschgau"
+          }
+        },
+        "DistrictInfo": {
+          "Id": "79CBD97D51C911D18F1400A02427D15E",
+          "Name": {
+            "cs": "Stilfs/Stelvio",
+            "de": "Stilfs",
+            "en": "Stelvio/Stilfs",
+            "fr": "Stelvio/Stilfs",
+            "it": "Stelvio",
+            "nl": "Stelvio/Stilfs",
+            "pl": "Stelvio/Stilfs",
+            "ru": "Стельвио"
+          }
+        },
+        "MunicipalityInfo": {
+          "Id": "9FF0DA1AE73E4B6F824709734DEE43B0",
+          "Name": {
+            "cs": "Stilfs/Stelvio",
+            "de": "Stilfs",
+            "en": "Stelvio/Stilfs",
+            "fr": "Stelvio/Stilfs",
+            "it": "Stelvio",
+            "nl": "Stelvio/Stilfs",
+            "pl": "Stelvio/Stilfs",
+            "ru": "Стельвио"
+          }
+        }
+      },
+      "EventPublisher": null,
+      "OrganizerInfos": {
+        "de": {
+          "Tax": "",
+          "Url": "",
+          "Vat": "",
+          "City": "",
+          "Email": "",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": "",
+          "ZipCode": "39029",
+          "Language": "de",
+          "Faxnumber": "",
+          "Givenname": "",
+          "NamePrefix": null,
+          "CompanyName": "Bildungsausschuss Stilfs",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": ""
+        },
+        "en": {
+          "Tax": "",
+          "Url": "",
+          "Vat": "",
+          "City": "",
+          "Email": "",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": "",
+          "ZipCode": "39029",
+          "Language": "en",
+          "Faxnumber": "",
+          "Givenname": "",
+          "NamePrefix": null,
+          "CompanyName": "Bildungsausschuss Stilfs",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": ""
+        },
+        "it": {
+          "Tax": "",
+          "Url": "",
+          "Vat": "",
+          "City": "",
+          "Email": "",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": "",
+          "ZipCode": "39029",
+          "Language": "it",
+          "Faxnumber": "",
+          "Givenname": "",
+          "NamePrefix": null,
+          "CompanyName": "Bildungsausschuss Stilfs",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": ""
+        }
+      },
+      "EventAdditionalInfos": {
+        "de": {
+          "Reg": "",
+          "Mplace": "Stilfs",
+          "Language": "de",
+          "Location": ""
+        },
+        "en": {
+          "Reg": "",
+          "Mplace": "Stelvio/Stilfs",
+          "Language": "en",
+          "Location": ""
+        },
+        "it": {
+          "Reg": "",
+          "Mplace": "Stelvio",
+          "Language": "it",
+          "Location": ""
+        }
+      },
+      "AltitudeUnitofMeasure": null
+    },
+    {
+      "Id": "EC9AB8D137CE4486A2B2482E0EEE6D83",
+      "Ranc": 0,
+      "Type": "1",
+      "Active": true,
+      "Detail": {
+        "de": {
+          "Title": "Biathlon WM in Antholz",
+          "Header": null,
+          "BaseText": "Internationale Spitzenteams streben bei den IBU BIATHLON WORLD CCHAMPIONSHIPS nach Edelmetall.\nDas Stadion öffnet für die weltbesten Biathletinnen und Biathleten seine Tore und im traditionellen \"Biathlon-Dorf\" in Antholz-Mittertal werden sportliche Erfolge gebührend gefeiert. \nMittlerweile gehört Antholz zu einem der traditionsreichsten Austragungsorten der internationalen Sport- und Biathlonwelt. Bereits seit über 30 Jahren werden im Biathlonstadion Antholz alljährlich Weltcuprennen ausgetragen.",
+          "Keywords": null,
+          "Language": "de",
+          "MetaDesc": null,
+          "IntroText": null,
+          "MetaTitle": null,
+          "SubHeader": null,
+          "GetThereText": "Mit dem Auto:\nMünchen - Rosenheim - Kufstein - Innsbruck - Brennerautobahn - Ausfahrt Brixen - Pustertaler Staatsstraße bis nach Bruneck - Olang - Abzweigung Antholzertal.\nOder:\nReschenpass - Bozen - Brixen - Pustertaler Staatsstraße - Olang - Abzweigung Antholzertal\nFelbertauern - Lienz - Sillian - Innichen - Welsberg - Abzweigung Antholzertal.\nOder:\nBozen - Brennerautobahn - Ausfahrt Brixen - Pustertaler Staatstraße - Bruneck - Olang - Abzweigung Antholzertal \n\nMit dem Zug:\nBrennerlinie -Umsteigen in Franzensfeste - Olang (14 km von Antholz Mittertal entfernt)\nOder:\nBahnlinie Lienz - Olang",
+          "AdditionalText": null
+        },
+        "en": {
+          "Title": "World Championships Biathlon",
+          "Header": null,
+          "BaseText": "This winter the Biathlon World Championships race taking place in the Anterselva/Antholz Biathlon Centre. Top international athlets will compete for precious metal in 6 contests (sprint, pursuit and mass start).\n\nThe Anterselva Biathlon Centre has been the venue for the World Championships in 1975, 1983, 1995 and 2007. \n\nAnterselva has become one of the international sport and biathlon world´s venues most steeped in tradition, with a history of hosting world cup races and championships going back over 30 years.",
+          "Keywords": null,
+          "Language": "en",
+          "MetaDesc": null,
+          "IntroText": null,
+          "MetaTitle": null,
+          "SubHeader": null,
+          "GetThereText": "By car:\nFrom the direction of Austria or Verona-Bolzano, take the A22 Brennero/Brenner motorway, exit at Bressanone/Brixen and follow the directions for Pustertal/Val Pusteria. At Brunico/Bruneck follow the signs for Valdaora/Olang, then take the turning for Anterselva/Antholz (Valle Anterselva). \n\nBy rail:\nTravelling from the direction of Innsbruck or Bolzano-Verona on the Brenner railway, change at Fortezza/Franzensfeste for the local line to Val Pusteria/Pustertal, alight at Valdaora/Olang and take the bus to Anterselva di Mezzo/Antholz Mittertal (14 km from Valdaora).",
+          "AdditionalText": null
+        },
+        "it": {
+          "Title": "Coppa del mondo di Biathlon",
+          "Header": null,
+          "BaseText": "Lo stadio del biathlon aprirà le porte ai migliori atleti del mondo di questa disciplina ad Anterselva di Sopra, una delle sedi internazionali più ricche di tradizione nel mondo dello sport e del biathlon.",
+          "Keywords": null,
+          "Language": "it",
+          "MetaDesc": null,
+          "IntroText": null,
+          "MetaTitle": null,
+          "SubHeader": null,
+          "GetThereText": "In macchina:\nautostrada del Brennero fino all'uscita Bressanone/Val Pusteria, proseguendo per la statale SS 49-E66 (30 km fino a Brunico)\n\noppure: da Cortina fino a Dobbiaco SS51, da Dobbiaco fino a Brunico SS49-E68 (63 km da Cortina fino a Brunico)\n\nDistanze da Brunico:\nNapoli 965 km\nRoma 765 km\nBologna 365 km\nTorino 495 km\nGenova 470 km\nMilano 350 km\nVerona 240 km\nVenezia 276 km\nTrieste 410 km",
+          "AdditionalText": null
+        }
+      },
+      "OrgRID": "522822D351CA11D18F1400A02427D15E",
+      "PayMet": "0",
+      "SignOn": "0",
+      "Ticket": "0",
+      "Topics": [
+        {
+          "TopicRID": "162C0067811B477DA725D2F5F2D98398",
+          "TopicInfo": "Sport"
+        }
+      ],
+      "DateEnd": "2020-02-23T00:00:00",
+      "Gpstype": "position",
+      "SmgTags": null,
+      "Altitude": null,
+      "Latitude": 46.7914,
+      "DateBegin": "2020-02-12T00:00:00",
+      "EventDate": [
+        {
+          "To": "2020-02-12T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-12T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-13T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-13T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-14T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-14T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-15T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-15T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-16T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-16T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-17T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-17T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-18T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-18T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-19T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-19T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-20T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-20T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-21T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-21T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-22T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-22T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        },
+        {
+          "To": "2020-02-23T00:00:00",
+          "End": "00:00:00",
+          "From": "2020-02-23T00:00:00",
+          "Begin": "00:00:00",
+          "Ticket": true,
+          "GpsEast": 0,
+          "Entrance": "00:00:00",
+          "GpsNorth": 0,
+          "MaxPersons": 0,
+          "MinPersons": 0,
+          "SingleDays": false
+        }
+      ],
+      "Longitude": 12.0555,
+      "Shortname": "Biathlon WM in Antholz",
+      "SmgActive": false,
+      "TopicRIDs": [
+        "162C0067811B477DA725D2F5F2D98398"
+      ],
+      "DistrictId": "79CBD87451C911D18F1400A02427D15E",
+      "EventPrice": {},
+      "LastChange": "2018-10-20T00:05:31.8662338",
+      "DistrictIds": [
+        "79CBD87451C911D18F1400A02427D15E"
+      ],
+      "FirstImport": "2018-10-20T00:05:31.8662338",
+      "HasLanguage": [
+        "de",
+        "it",
+        "en"
+      ],
+      "ContactInfos": {
+        "de": {
+          "Tax": null,
+          "Url": "http://www.antholz2020.it",
+          "Vat": null,
+          "City": "Antholzertal",
+          "Email": "info@biathlon-antholz.it",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": null,
+          "ZipCode": "",
+          "Language": "de",
+          "Faxnumber": null,
+          "Givenname": null,
+          "NamePrefix": null,
+          "CompanyName": "",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0474 492390"
+        },
+        "en": {
+          "Tax": null,
+          "Url": "http://www.antholz2020.it",
+          "Vat": null,
+          "City": "Anterselva/Antholz",
+          "Email": "info@biathlon-antholz.it",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": null,
+          "ZipCode": "",
+          "Language": "en",
+          "Faxnumber": null,
+          "Givenname": null,
+          "NamePrefix": null,
+          "CompanyName": "",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0474 492390"
+        },
+        "it": {
+          "Tax": null,
+          "Url": "http://www.antholz2020.it",
+          "Vat": null,
+          "City": "Anterselva",
+          "Email": "info@biathlon-antholz.it",
+          "Address": "",
+          "LogoUrl": null,
+          "Surname": null,
+          "ZipCode": "",
+          "Language": "it",
+          "Faxnumber": null,
+          "Givenname": null,
+          "NamePrefix": null,
+          "CompanyName": "",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0474 492390"
+        }
+      },
+      "ImageGallery": [
+        {
+          "Width": 0,
+          "Height": 0,
+          "ValidTo": null,
+          "ImageUrl": "https://doc.lts.it/DocSite/ImageRender.aspx?ID=df5d59dfa6e543608265730c30995987",
+          "CopyRight": "Biathlon Komitee Antholz",
+          "ImageDesc": {
+            "de": "Biathlon Komitee Antholz",
+            "en": "Biathlon Komitee Antholz",
+            "it": "Biathlon Komitee Antholz"
+          },
+          "ImageName": null,
+          "ValidFrom": null,
+          "ImageTitle": {},
+          "ImageSource": "LTS",
+          "IsInGallery": true,
+          "ListPosition": 0
+        },
+        {
+          "Width": 0,
+          "Height": 0,
+          "ValidTo": null,
+          "ImageUrl": "https://doc.lts.it/DocSite/ImageRender.aspx?ID=cbadf714f5534b90b1a6dde7a1fde08c",
+          "CopyRight": "Biathlon Komitee Antholz",
+          "ImageDesc": {
+            "de": "Biathlon Komitee Antholz",
+            "en": "Biathlon Komitee Antholz",
+            "it": "Biathlon Komitee Antholz"
+          },
+          "ImageName": null,
+          "ValidFrom": null,
+          "ImageTitle": {},
+          "ImageSource": "LTS",
+          "IsInGallery": true,
+          "ListPosition": 1
+        },
+        {
+          "Width": 0,
+          "Height": 0,
+          "ValidTo": null,
+          "ImageUrl": "https://doc.lts.it/DocSite/ImageRender.aspx?ID=031d4803e3404d488f1fb84c00b4f34f",
+          "CopyRight": "Biathlon Komitee Antholz",
+          "ImageDesc": {
+            "de": "Biathlon Komitee Antholz",
+            "en": "Biathlon Komitee Antholz",
+            "it": "Biathlon Komitee Antholz"
+          },
+          "ImageName": null,
+          "ValidFrom": null,
+          "ImageTitle": {},
+          "ImageSource": "LTS",
+          "IsInGallery": true,
+          "ListPosition": 2
+        }
+      ],
+      "LocationInfo": {
+        "TvInfo": {
+          "Id": "522822D351CA11D18F1400A02427D15E",
+          "Name": {
+            "cs": "Rasen/Rasun v Antholzertalu/Valle di Anterselva",
+            "de": "Antholzertal",
+            "en": "Rasun/Rasen in Valle di Anterselva/Antholzertal",
+            "fr": "Rasun/Rasen dans la vallée d’Anterselva (Antholzertal)",
+            "it": "Rasun in Valle di Anterselva",
+            "nl": "Rasun/Rasen in Valle di Anterselva/Antholzertal",
+            "pl": "Rasun/Rasen w Valle di Anterselva/Antholzertal",
+            "ru": "Разун/Rasen в Валле ди Антерсельва/Antholzertal"
+          }
+        },
+        "AreaInfo": null,
+        "RegionInfo": {
+          "Id": "D2633A1BC24E11D18F1B006097B8970B",
+          "Name": {
+            "cs": "Bruneck/Brunico a okolí",
+            "de": "Bruneck und Umgebung",
+            "en": "Brunico/Bruneck and environs",
+            "fr": "Brunico/Bruneck et environs",
+            "it": "Brunico e dintorni",
+            "nl": "Brunico/Bruneck en omgeving",
+            "pl": "Brunico/Bruneck i okolice",
+            "ru": "Брунико и окрестности"
+          }
+        },
+        "DistrictInfo": {
+          "Id": "79CBD87451C911D18F1400A02427D15E",
+          "Name": {
+            "cs": "Antholz-Obertal/Anterselva di Sopra",
+            "de": "Antholz-Obertal",
+            "en": "Anterselva di Sopra/Antholz-Obertal",
+            "fr": "Anterselva di Sopra/Antholz-Obertal",
+            "it": "Anterselva di Sopra",
+            "nl": "Anterselva di Sopra/Antholz-Obertal",
+            "pl": "Anterselva di Sopra/Antholz-Obertal",
+            "ru": "Антерсельва ди Сопра"
+          }
+        },
+        "MunicipalityInfo": {
+          "Id": "F27E773C3D334208B21F67148ADA1A04",
+          "Name": {
+            "cs": "Rasen-Antholz/Rasun Anterselva",
+            "de": "Rasen-Antholz",
+            "en": "Rasun Anterselva/Rasen-Antholz",
+            "fr": "Rasun Anterselva/Rasen-Antholz",
+            "it": "Rasun Anterselva",
+            "nl": "Rasun Anterselva/Rasen-Antholz",
+            "pl": "Rasun Anterselva/Rasen-Antholz",
+            "ru": "Разун-Антерсельва"
+          }
+        }
+      },
+      "EventPublisher": null,
+      "OrganizerInfos": {
+        "de": {
+          "Tax": "",
+          "Url": "http://www.antholzertal.com",
+          "Vat": "",
+          "City": "39030 Rasen-Antholz",
+          "Email": "info@antholzertal.com",
+          "Address": "Niederrasen 60",
+          "LogoUrl": null,
+          "Surname": "",
+          "ZipCode": "39030",
+          "Language": "de",
+          "Faxnumber": "+39 0474 498099",
+          "Givenname": "",
+          "NamePrefix": null,
+          "CompanyName": "Tourismusverein Antholzertal",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0474 496269"
+        },
+        "en": {
+          "Tax": "",
+          "Url": "http://www.antholzertal.com",
+          "Vat": "",
+          "City": "39030 Rasen-Antholz",
+          "Email": "info@antholzertal.com",
+          "Address": "Niederrasen 60",
+          "LogoUrl": null,
+          "Surname": "",
+          "ZipCode": "39030",
+          "Language": "en",
+          "Faxnumber": "+39 0474 498099",
+          "Givenname": "",
+          "NamePrefix": null,
+          "CompanyName": "Tourismusverein Antholzertal",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0474 496269"
+        },
+        "it": {
+          "Tax": "",
+          "Url": "http://www.antholzertal.com",
+          "Vat": "",
+          "City": "39030 Rasun-Anterselva",
+          "Email": "info@antholzertal.com",
+          "Address": "Rasun di Sotto 60",
+          "LogoUrl": null,
+          "Surname": "",
+          "ZipCode": "39030",
+          "Language": "it",
+          "Faxnumber": "+39 0474 498099",
+          "Givenname": "",
+          "NamePrefix": null,
+          "CompanyName": "Ass. Turistica Valle Anterselva",
+          "CountryCode": null,
+          "CountryName": null,
+          "Phonenumber": "+39 0474 496269"
+        }
+      },
+      "EventAdditionalInfos": {
+        "de": {
+          "Reg": "",
+          "Mplace": "",
+          "Language": "de",
+          "Location": "Biathlonzentrum Antholzertal"
+        },
+        "en": {
+          "Reg": "",
+          "Mplace": "",
+          "Language": "en",
+          "Location": "Biathlon Centre Anterselva/Antholz"
+        },
+        "it": {
+          "Reg": "",
+          "Mplace": "",
+          "Language": "it",
+          "Location": "Centro biathlon Anterselva"
+        }
+      },
+      "AltitudeUnitofMeasure": null
+    }
+  ]
+}
